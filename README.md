@@ -23,6 +23,8 @@ ________________________________________
 About This Report
 This report was created as part of my data analytics portfolio to showcase skills in data visualization, analysis, and reporting using Power BI. If you have any feedback or would like to collaborate on similar projects, feel free to connect with me!
 
+![Jamb](https://github.com/user-attachments/assets/61f05433-b784-4196-a484-8e3fd6018f42)
+
 
 
 
